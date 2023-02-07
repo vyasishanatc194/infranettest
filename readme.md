@@ -39,7 +39,3 @@ The current temperature of the cities will be returned in JSON format.
 
 ## How to run testcases
 execute the command in cmd `pytest test.py`
-
-## Postman collection
-https://api.postman.com/collections/22089038-d7717192-6c51-4615-b2cd-7250db840eb4?access_key=PMAT-
-01GRNXVES5DCK16SAJ7ZPWNN3Y
